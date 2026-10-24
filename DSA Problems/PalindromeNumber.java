@@ -4,7 +4,7 @@ public class PalindromeNumber {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
         System.out.println(bruteForce(n));
-
+        System.out.println(optimal(n));
     }
 
 /*
@@ -72,6 +72,9 @@ public class PalindromeNumber {
  * - Avoiding integer overflow by reversing only half the number.
  */
     public static boolean optimal(int num){
+        if (num < 0 || (num % 10 == 0 && num != 0)) {
+            return false;
+        }
         int rev=0;
         while(num>rev){
             int lastDigit = num%10;
