@@ -33,9 +33,9 @@ public class BinarySearch{
         Arrays.sort(arr);
         System.out.println(Arrays.toString(arr));
         int start=0;
-        int end=arr.length;
+        int end=arr.length-1;
         while(start<=end){
-            int mid=(start+end)/2;
+            int mid=start+(end-start)/2;
             if(n==arr[mid]){
                 return mid;
             }
