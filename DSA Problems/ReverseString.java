@@ -21,7 +21,6 @@ public class ReverseString {
  * The array is reversed in-place without creating another array.
  */
     public static void main(String args[]){
-        Scanner sc = new Scanner(System.in);
         char arr[] = {'H','a','p','p','y'};
         reverseArray(arr);
     }
