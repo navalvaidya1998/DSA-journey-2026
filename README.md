@@ -8,3 +8,4 @@
 | 34 | Fibonacci Number | Math, Dynamic Programming, Iteration | Easy | [View Code](<DSA Problems/FibonacciNumber.java>) |
 | 35 | Binary Search | Arrays, Binary Search | Easy | [View Code](<DSA Problems/BinarySearch.java>) |
 | 36 | Reverse String | Arrays, Strings, Two Pointers | Easy | [View Code](<DSA Problems/ReverseString.java>) |
+| 37 | Pascal's Triangle | Arrays, Nested Lists, Dynamic Programming | Easy | [View Code](<DSA Problems/PascalsTriangle.java>) |
