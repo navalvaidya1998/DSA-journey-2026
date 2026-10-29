@@ -9,3 +9,4 @@
 | 35 | Binary Search | Arrays, Binary Search | Easy | [View Code](<DSA Problems/BinarySearch.java>) |
 | 36 | Reverse String | Arrays, Strings, Two Pointers | Easy | [View Code](<DSA Problems/ReverseString.java>) |
 | 37 | Pascal's Triangle | Arrays, Nested Lists, Dynamic Programming | Easy | [View Code](<DSA Problems/PascalsTriangle.java>) |
+| 38 | Maximum Subarray | Arrays, Prefix Sum, Kadane's Algorithm | Medium | [View Code](<DSA Problems/MaximumSubarray.java>) |
