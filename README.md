@@ -10,3 +10,4 @@
 | 36 | Reverse String | Arrays, Strings, Two Pointers | Easy | [View Code](<DSA Problems/ReverseString.java>) |
 | 37 | Pascal's Triangle | Arrays, Nested Lists, Dynamic Programming | Easy | [View Code](<DSA Problems/PascalsTriangle.java>) |
 | 38 | Maximum Subarray | Arrays, Prefix Sum, Kadane's Algorithm | Medium | [View Code](<DSA Problems/MaximumSubarray.java>) |
+| 39 | Trapping Rain Water | Arrays, Two Pointers, Prefix/Suffix Maximum | Hard | [View Code](<DSA Problems/TrappingRainWater.java>) |
