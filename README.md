@@ -11,3 +11,4 @@
 | 37 | Pascal's Triangle | Arrays, Nested Lists, Dynamic Programming | Easy | [View Code](<DSA Problems/PascalsTriangle.java>) |
 | 38 | Maximum Subarray | Arrays, Prefix Sum, Kadane's Algorithm | Medium | [View Code](<DSA Problems/MaximumSubarray.java>) |
 | 39 | Trapping Rain Water | Arrays, Two Pointers, Prefix/Suffix Maximum | Hard | [View Code](<DSA Problems/TrappingRainWater.java>) |
+| 40 | Best Time to Buy and Sell Stock | Arrays, Greedy, One Pass | Easy | [View Code](<DSA Problems/BestTimetoBuyandSellStock.java>) |
