@@ -12,3 +12,4 @@
 | 38 | Maximum Subarray | Arrays, Prefix Sum, Kadane's Algorithm | Medium | [View Code](<DSA Problems/MaximumSubarray.java>) |
 | 39 | Trapping Rain Water | Arrays, Two Pointers, Prefix/Suffix Maximum | Hard | [View Code](<DSA Problems/TrappingRainWater.java>) |
 | 40 | Best Time to Buy and Sell Stock | Arrays, Greedy, One Pass | Easy | [View Code](<DSA Problems/BestTimetoBuyandSellStock.java>) |
+| 41 | Contains Duplicate | Arrays, HashSet | Easy | [View Code](<DSA Problems/ContainsDuplicate.java>) |
