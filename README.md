@@ -14,3 +14,4 @@
 | 40 | Best Time to Buy and Sell Stock | Arrays, Greedy, One Pass | Easy | [View Code](<DSA Problems/BestTimetoBuyandSellStock.java>) |
 | 41 | Contains Duplicate | Arrays, HashSet | Easy | [View Code](<DSA Problems/ContainsDuplicate.java>) |
 | 42 | Search in Rotated Sorted Array | Arrays, Binary Search | Medium | [View Code](<DSA Problems/SearchinRotatedSortedArray.java>) |
+| 43 | Two Sum | Arrays, HashMap | Easy | [View Code](<DSA Problems/TwoSum.java>) |
